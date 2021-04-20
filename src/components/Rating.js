@@ -6,7 +6,7 @@ class Rating extends React.Component {
     super(props);
 
     this.state = {
-      increasing: false,
+      increasing: true,
       decreasing: false
     };
   }
